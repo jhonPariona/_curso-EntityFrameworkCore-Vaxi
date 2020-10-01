@@ -4,7 +4,9 @@
 
 [📖 Udemy](https://www.udemy.com/course/net-core-entity-framework-core/)
 
-# Entity Framewor Core
+# Entity Framework
+
+Es una librería de .NET Core
 
 > Esta diseñada como un ORM, nos va a permitir mapear .net Core con la DBMS en este caso sql server
 
